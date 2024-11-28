@@ -1,3 +1,3 @@
 # Currency-Converter
-Currency converter using React-JS
+Currency converter using React-JS.
 
